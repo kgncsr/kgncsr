@@ -11,6 +11,5 @@
 [<img target="_blank" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png"/>](https://www.linkedin.com/in/kgncsr/)
 [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-64.png"/>](https://twitter.com/kgncsr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgncsr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kgncsr" alt="kgncsr" /> </p>
 
