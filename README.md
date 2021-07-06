@@ -14,4 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutgu1er&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umutgu1er" alt="umutgu1er" /> </p>
+
