@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on backend technologies.
-- 🌱 I’m currently learning  Asp.NET Core and Asp.NET Core MVC
+- 👁️‍🗨️ I’m currently learning  Asp.NET Core and Asp.NET Core MVC
 
 
 ### Contact Me:
