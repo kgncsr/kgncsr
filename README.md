@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**kgncsr/kgncsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on frontend technologies.
+- 🌱 I’m currently learning React.js and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contact Me:
+
+[<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-64.png"/>](mailto:umutgul3r@gmail.com)
+[<img target="_blank" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png"/>](https://www.linkedin.com/in/umutgu1er/)
+[<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-64.png"/>](https://twitter.com/umutgu1er)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutgu1er&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umutgu1er" alt="umutgu1er" /> </p>
