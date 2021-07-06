@@ -12,6 +12,5 @@
 [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-64.png"/>](https://twitter.com/kgncsr)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutgu1er&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
